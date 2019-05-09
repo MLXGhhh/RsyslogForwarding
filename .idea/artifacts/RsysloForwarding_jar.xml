@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RsysloForwarding:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RsysloForwarding_jar</output-path>
+    <root id="archive" name="RsysloForwarding.jar">
+      <element id="module-output" name="RsysloForwarding" />
+      <element id="extracted-dir" path="F:/syslog4j-0.9.46.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
